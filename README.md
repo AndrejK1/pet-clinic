@@ -1,2 +1,2 @@
 # pet-clinic
-simple pet clinic project maded just to learn spring basics
+simple pet clinic project made just to learn spring basics
